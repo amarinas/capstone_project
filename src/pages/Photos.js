@@ -7,3 +7,5 @@ function Photos() {
     </main>
   );
 }
+
+export default Photos;
