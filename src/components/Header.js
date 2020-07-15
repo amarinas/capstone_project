@@ -8,7 +8,7 @@ function Header() {
         <Link to="/">Pic Some</Link>
       </h2>
       <Link to="/cart">
-        <i class="ri-shopping-cart-2-fill ri-3x"></i>
+        <i className="ri-shopping-cart-2-fill ri-3x"></i>
       </Link>
     </header>
   );
